@@ -1,4 +1,4 @@
-#User function Template for python3
+
 
 class Solution:
     #Function to check if two arrays are equal or not.
@@ -44,5 +44,3 @@ if __name__=='__main__':
             print(0)
         
                 
-                
-# } Driver Code Ends
